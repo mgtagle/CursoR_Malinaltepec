@@ -9,7 +9,7 @@ Universidad Autónoma de Nuevo León
 :date: 07 de diciembre 2021
 
 
-web page: https://mgtagle.github.io/
+:part_alternation_mark: web page: https://mgtagle.github.io/
 
 
 
