@@ -1,5 +1,5 @@
 # :orange_book: CursoR: Malinantepec  
-**R como herramienta en el manejo de datos forestales**
+**Software R como herramienta en el manejo de datos forestales**
 
 
 **Dr. Marco Aurelio González Tagle**
