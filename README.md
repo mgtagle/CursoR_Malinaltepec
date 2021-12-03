@@ -15,7 +15,8 @@ Universidad Autónoma de Nuevo León
 
 
 
-## :green_book: Contenido 
+## :green_book: Contenido  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5750953.svg)](https://doi.org/10.5281/zenodo.5750953)
 
 1. [Instalación de R y RStudio](Tutorial/InstalacionR_RStudio.pdf) :compass:
 
