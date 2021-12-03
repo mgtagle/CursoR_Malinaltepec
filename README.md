@@ -1,4 +1,4 @@
-# :orange_book: CursoR: Malinantepec  
+# :orange_book: CursoR: Malinaltepec  
 **Software R como herramienta en el manejo de datos forestales**
 
 
